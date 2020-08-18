@@ -1,0 +1,8 @@
+admin-bot/target
+vkwave/target
+vkwave/Cargo.lock
+admin-bot/Cargo.lock
+/target
+*.iml
+admin-bot/admin-bot/.env
+.idea

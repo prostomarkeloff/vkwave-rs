@@ -1,0 +1,2 @@
+[workspace]
+members = ["vkwave", "vkwave-token", "vkwave-codegen"]
